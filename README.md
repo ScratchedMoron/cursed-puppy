@@ -1,4 +1,4 @@
-# cursed-puppy-andorid
+# cursed-puppy-back
 
 담신믄 네모네모 멈뭄미뫄 눈미 마주치고 말맜습니다.
 담신믄 미제 네모네모 멈뭄미믜 저주로
